@@ -6,3 +6,6 @@
 * Redux
 * React Router
 * Authentication (using Google Login)
+* Forms with Redux
+* CRUD operations in React/Redux
+* Error Handling
