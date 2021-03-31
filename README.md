@@ -5,7 +5,7 @@
 ## Topics
 * Redux
 * React Router
-* Authentication (using Google Login)
+* Authentication (using Google OAuth)
 * Forms with Redux
 * CRUD operations in React/Redux
 * Error Handling
