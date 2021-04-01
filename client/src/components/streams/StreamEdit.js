@@ -17,15 +17,13 @@ class StreamEdit extends React.Component {
       return <div>Loading</div>;
     }
 
-    const initialValues = {
-      title: this.props.stream.title,
-      description: this.props.stream.description,
-    }
-
     return (
       <div>
         <h3>Edit a Stream</h3>
-        <StreamForm onSubmit={this.onSubmit} initialValues={initialValues} />
+        <StreamForm
+          initialValues={this.props.stream}
+          onSubmit={this.onSubmit}
+        />
       </div>
     );
   }
