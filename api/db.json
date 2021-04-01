@@ -12,7 +12,8 @@
     },
     {
       "title": "Stream with User Data",
-      "description": "This should include the user id.",
+      "description": "This should include the user id",
+      "userId": "103002914511893587484",
       "id": 3
     },
     {
