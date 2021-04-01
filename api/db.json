@@ -21,6 +21,12 @@
       "description": "You should not see this after submitting",
       "userId": "103002914511893587484",
       "id": 4
+    },
+    {
+      "title": "Creating Stream with StreamForm",
+      "description": "This is a test of our new StreamForm component.",
+      "userId": "103002914511893587484",
+      "id": 5
     }
   ]
 }
