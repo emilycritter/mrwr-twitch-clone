@@ -4,6 +4,11 @@
       "title": "My Stream",
       "description": "This is my first stream.",
       "id": 1
+    },
+    {
+      "title": "Second Stream",
+      "description": "This is another stream.",
+      "id": 2
     }
   ]
 }
