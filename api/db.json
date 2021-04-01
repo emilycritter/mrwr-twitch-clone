@@ -9,6 +9,12 @@
       "title": "Second Stream",
       "description": "This is another stream.",
       "id": 2
+    },
+    {
+      "title": "Stream with User Data",
+      "description": "This should include the user id",
+      "userId": "103002914511893587484",
+      "id": 3
     }
   ]
 }

@@ -36,7 +36,9 @@ class StreamList extends React.Component {
 }
 
 const mapStateToProps = (state) => {
-  return { streams: Object.values(state.streams) } // Object.values converts from an object to an array
+  return { 
+    streams: Object.values(state.streams) // Object.values converts from an object to an array
+  }
 }
 
 export default connect(mapStateToProps, { fetchStreams })(StreamList);
